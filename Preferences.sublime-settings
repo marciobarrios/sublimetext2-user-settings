@@ -10,8 +10,6 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"SublimeTagmatcher",
-		"SublimeBrackets",
 		"SublimeLinter"
 	],
 	"theme": "Soda Light.sublime-theme"

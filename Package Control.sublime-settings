@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": 1328225715,
+	"installed_packages":
+	[
+		"Alignment",
+		"Cappuccino-Sublime",
+		"Git",
+		"HTML5",
+		"jQuery Snippets pack",
+		"Nettuts+ Fetch",
+		"Nodejs",
+		"Package Control",
+		"Placeholders",
+		"Prefixr",
+		"SublimeBrackets",
+		"SublimeLinter",
+		"SublimeTagmatcher"
+	]
+}

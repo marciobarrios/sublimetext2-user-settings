@@ -1,0 +1,18 @@
+{
+	//"font_face": "Meslo LG S DZ",
+	//"font_face": "Panic Sans Regular",
+	//"font_size": 13,
+	"line_numbers": false,
+	"fallback_encoding": "UTF-8",
+	"alignment_chars": ["=", ":"],
+	"color_scheme": "Packages/Color Scheme - Default/Espresso Soda.tmTheme",
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeTagmatcher",
+		"SublimeBrackets",
+		"SublimeLinter"
+	],
+	"theme": "Soda Light.sublime-theme"
+}

@@ -1,0 +1,18 @@
+{
+	// Usuario de tuenti
+	"tuenti_user": "marcio",
+
+	// Actualizar Paquete
+	"path_to_dropbox_file": "/Users/marcio/Dropbox/WEB/bundles/sublime.zip",
+
+	// Sincronizar proyecto al guardar
+	"sync_on_save": false,
+
+	// Para sincronizar los proyectos
+	"local_path": "/Users/marcio/Sites/branches/",
+	"remote_host": "namek",
+	"remote_path": "/home/marcio/branches/tuenti.com",
+
+	// Ruta para usar Mercurial: utiliza "which hg"
+	"hg_path": "/usr/local/bin/hg"
+}

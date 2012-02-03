@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"animate": "https://raw.github.com/daneden/animate.css/master/animate.css",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"prefixfree": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js",
+		"respond": "https://raw.github.com/scottjehl/Respond/master/respond.min.js"
+	},
+	"packages":
+	{
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped"
+	}
+}

@@ -1,4 +1,4 @@
-#My Sublime Text 2 settings
+#My ST2 settings and some extra info
 
 My User folder for [SublimeText2](http://sublimetext.com/2) and some useful reminders.
 
@@ -9,6 +9,7 @@ git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
 ``` 
 
 To activate the theme in Preferences.sublime-settings inside User folder:
+
 ```
 {
     "theme": "Soda Light.sublime-theme"

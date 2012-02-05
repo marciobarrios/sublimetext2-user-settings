@@ -5,6 +5,8 @@
 	"line_numbers": false,
 	"fallback_encoding": "UTF-8",
 	"alignment_chars": ["=", ":"],
+	"word_wrap": true,
+	"tab_size": 2,
 	"color_scheme": "Packages/Color Scheme - Default/Espresso Soda.tmTheme",
 	"highlight_modified_tabs": true,
 	"ignored_packages":

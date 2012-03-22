@@ -1,22 +1,35 @@
 [
-	//Console
-    { "keys": ["ctrl+c"], "command": "show_panel", "args": {"panel": "console"} },
-    
-    //Marks
-    { "keys": ["super+shift+k"], "command": "set_mark" },
-    { "keys": ["super+shift+alt+k"], "command": "clear_bookmarks", "args": {"name": "mark"} },
-    
-    //Folding
-    { "keys": ["super+alt+ctrl+f"], "command": "fold" },
+	// Console
+  { "keys": ["ctrl+c"], "command": "show_panel", "args": {"panel": "console"} },
+  
+  // Marks
+  { "keys": ["super+shift+k"], "command": "set_mark" },
+  { "keys": ["super+shift+alt+k"], "command": "clear_bookmarks", "args": {"name": "mark"} },
+  
+  // Folding
+  { "keys": ["super+alt+ctrl+f"], "command": "fold" },
 	{ "keys": ["super+alt+ctrl+shift+f"], "command": "unfold" },
+
+	// Command palette with CMD+SHIFT+T
+	//{ "keys": ["super+shift+t"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
 	
-	//Skipping past auto-completed matching brackets
+	// Skipping past auto-completed matching brackets
 	{ "keys": ["enter"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
 	    [
 	        { "key": "following_text", "operator": "regex_contains", "operand": "^[)\"\\]]", "match_all": true },
 	        { "key": "auto_complete_visible", "operator": "equal", "operand": false }
 	    ]   
 	},
+
+	// Caret history plugin
+	/*[
+    { "keys": ["ctrl+alt+left"], "command": "caret_history", "args": { "action": "previous" } },
+    { "keys": ["ctrl+alt+right"], "command": "caret_history", "args": { "action": "next" } }
+	],*/
+
+	// Bookmarks
+	{ "keys": ["super+shift+b"], "command": "toggle_bookmark" },
+	{ "keys": ["ctrl+alt+super+b"], "command": "next_bookmark" },
 	
 	// Historial para copiar y pegar: clipboard_history.py
 	{ "keys": ["super+x"], "command": "clipboard_history_cut" },

@@ -1,15 +1,22 @@
 {
-	"auto_upgrade_last_run": 1328225715,
+	"auto_upgrade_last_run": 1332346621,
 	"installed_packages":
 	[
 		"Alignment",
+		"ASCII Decorator",
+		"Caret History",
 		"Git",
+		"Hex to HSL Color Converter",
 		"HTML5",
+		"JsFormat",
+		"jsFormat",
+		"JsMinifier",
 		"Nettuts+ Fetch",
 		"Nodejs",
 		"Package Control",
 		"Placeholders",
 		"Prefixr",
+		"SideBarEnhancements",
 		"SublimeLinter"
 	]
 }

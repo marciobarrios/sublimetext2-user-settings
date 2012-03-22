@@ -1,18 +1,22 @@
 {
-	//"font_face": "Meslo LG S DZ",
-	//"font_face": "Panic Sans Regular",
-	//"font_size": 13,
-	"line_numbers": false,
-	"fallback_encoding": "UTF-8",
-	"alignment_chars": ["=", ":"],
-	"word_wrap": true,
-	"tab_size": 2,
+	"alignment_chars":
+	[
+		"=",
+		":"
+	],
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Color Scheme - Default/Espresso Soda.tmTheme",
+	"fallback_encoding": "UTF-8",
+	"font_size": 12.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"SublimeLinter"
+		"SublimeLinter",
+		"CSSLint",
+		"Caret History"
 	],
-	"theme": "Soda Light.sublime-theme"
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"word_wrap": true
 }

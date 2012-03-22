@@ -25,10 +25,14 @@ import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_pac
 ##Installed packages
 
 * Alignment (Package Control)
+* ASCII decorator (Package Control)
+* Caret History (Package Control)
 * CoffeeScript (Package Control)
 * CSS3 Please.tmbundle
 * CSS3.tmbundle
+* CSSLint (Package Control)
 * Git (Package Control)
+* Hex to HSL Color Converter (Package Control)
 * HTML5 (Package Control)
 * JsFormat (Package Control)
 * JsHint (Package Control)
@@ -39,6 +43,7 @@ import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_pac
 * Nodejs (Package Control)
 * Placeholders (Package Control)
 * Prefixr (Package Control)
+* SidebarEnhancements (Package Control)
 * SublimeLinter (Package Control)
 * Tuenti
 

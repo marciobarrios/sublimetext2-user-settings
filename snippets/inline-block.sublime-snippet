@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display: inline-block; *zoom: 1; *display: inline;]]></content>
+    <tabTrigger>inb</tabTrigger>
+    <scope>source.css</scope>
+    <description>inline-block (IE7 compat)</description>
+</snippet>

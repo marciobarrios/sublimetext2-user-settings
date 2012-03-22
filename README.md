@@ -52,5 +52,3 @@ http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip
 
 * Monokai Soda
 * Espresso Soda
-
-A better icon: https://github.com/dmatarazzo/Sublime-Text-2-Icon

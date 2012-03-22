@@ -1,9 +1,7 @@
 {
-	"alignment_chars":
-	[
-		"=",
-		":"
-	],
+	"font_face": "Menlo Regular",
+	"font_size": 12,
+	"alignment_chars": ["=",":"],
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Color Scheme - Default/Espresso Soda.tmTheme",
 	"fallback_encoding": "UTF-8",
@@ -18,5 +16,9 @@
 	],
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
-	"word_wrap": true
+	"word_wrap": true,
+	"scroll_past_end": false,
+	"find_selected_text": false,
+	"move_to_limit_on_up_down": true,
+  "close_windows_when_empty": true
 }

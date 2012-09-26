@@ -27,6 +27,14 @@
     { "keys": ["ctrl+alt+right"], "command": "caret_history", "args": { "action": "next" } }
 	],*/
 
+	// console.log() key binding 
+	{ "keys": ["super+shift+l"],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "console.log(${1:}$SELECTION);${0}"
+    }
+  },
+
 	// Bookmarks
 	{ "keys": ["super+shift+b"], "command": "toggle_bookmark" },
 	{ "keys": ["ctrl+alt+super+b"], "command": "next_bookmark" },
@@ -52,5 +60,12 @@
 	] },
 	{ "keys": ["super+alt+down"], "command": "inc_dec_number", "args": { "delta": -10}, "context": [
 	{ "key": "selector", "operator": "equal", "operand": "source.css meta.property-value.css", "match_all": true }
-	] }
+	] },
+
+	// Escape = Undo selection command
+	{ "keys": ["escape"], "command": "soft_undo", "context":
+      [
+         { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+      ]
+   }
 ]

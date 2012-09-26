@@ -1,22 +1,38 @@
 {
-	"auto_upgrade_last_run": 1332346621,
+	"auto_upgrade_last_run": 1348360416,
 	"installed_packages":
 	[
 		"Alignment",
 		"ASCII Decorator",
+		"Auto Encoding for Ruby",
+		"Backbone.js",
+		"Backbone.Marionette",
 		"Caret History",
+		"CSS Media Query Snippets",
+		"CSS Snippets",
+		"CSSLint",
+		"DocBlockr",
+		"Element Finder",
 		"Git",
 		"Hex to HSL Color Converter",
+		"Hex-to-RGB",
 		"HTML5",
-		"JsFormat",
 		"jsFormat",
+		"JsFormat",
 		"JsMinifier",
+		"Modific",
 		"Nettuts+ Fetch",
 		"Nodejs",
 		"Package Control",
 		"Placeholders",
 		"Prefixr",
+		"Ruby 1.9 Hash Converter",
 		"SideBarEnhancements",
-		"SublimeLinter"
+		"Simple Rails Navigator",
+		"SublimeLinter",
+		"SublimeServer",
+		"Tag",
+		"Theme - Aqua",
+		"Theme - Soda"
 	]
 }

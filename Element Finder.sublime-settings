@@ -1,0 +1,7 @@
+{
+	// Only search files with this extension: 
+	"extension" : "html, htm, xhtml, phtml",
+
+	// Ignore files matching this pattern
+	"ignore" : ".git, .svn, .hg"
+}

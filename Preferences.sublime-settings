@@ -1,40 +1,40 @@
 {
-	// visuals
-	"theme": "Soda Light.sublime-theme",
-	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Espresso Aqua.tmTheme",
-	"font_face": "Menlo Regular",
-	"font_size": 12,
-	"rulers":[100],
-	"highlight_modified_tabs": true,
-	"line_numbers": false,
-	"margin": -25,
-	"move_to_limit_on_up_down": true,
-	"scroll_past_end": false,
+  // visuals
+  "theme": "Soda Light.sublime-theme",
+  "color_scheme": "Packages/Theme - Aqua/Color Schemes/Espresso Aqua.tmTheme",
+  "font_face": "Menlo Regular",
+  "font_size": 12,
+  "rulers":[100],
+  "highlight_modified_tabs": true,
+  "line_numbers": false,
+  "margin": -25,
+  "move_to_limit_on_up_down": true,
+  "scroll_past_end": false,
 
-	// text formatting
-	"indent_guide_options":["draw_active"], 
-	"word_wrap": true,
-	"tab_size": 2,
-	"ensure_newline_at_eof_on_save": true,
+  // text formatting
+  "indent_guide_options":["draw_active"], 
+  "word_wrap": true,
+  "tab_size": 2,
+  "ensure_newline_at_eof_on_save": true,
 
-	// other 
-	"auto_complete_commit_on_tab": true,
-	"close_windows_when_empty": true,
-	"detect_slow_plugins": false,
-	"fallback_encoding": "UTF-8",
-	"find_selected_text": true,
+  // other 
+  "auto_complete_commit_on_tab": true,
+  "close_windows_when_empty": true,
+  "detect_slow_plugins": false,
+  "fallback_encoding": "UTF-8",
+  "find_selected_text": true,
 
-	// plugins
-	"alignment_chars":["=",":"],
-	
-	// ignored
-	"ignored_packages":
-	[
-		"Caret History",
-		"CSSLint",
-		"SublimeServer",
-		"SublimeLinter",
-		"Vintage",
-		"Modific"
-	]
+  // plugins
+  "alignment_chars":["=",":"],
+  
+  // ignored
+  "ignored_packages":
+  [
+    "Caret History",
+    "CSSLint",
+    "SublimeServer",
+    "SublimeLinter",
+    "Vintage",
+    "Modific"
+  ]
 }

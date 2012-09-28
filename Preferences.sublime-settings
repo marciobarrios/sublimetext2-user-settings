@@ -20,6 +20,7 @@
   // other 
   "auto_complete_commit_on_tab": true,
   "close_windows_when_empty": true,
+  "open_files_in_new_window": false,
   "detect_slow_plugins": false,
   "fallback_encoding": "UTF-8",
   "find_selected_text": true,

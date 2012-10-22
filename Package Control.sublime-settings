@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1348360416,
+	"auto_upgrade_last_run": 1350900483,
 	"installed_packages":
 	[
 		"Alignment",
@@ -14,6 +14,7 @@
 		"DocBlockr",
 		"Element Finder",
 		"Git",
+		"GotoOpenFile",
 		"Hex to HSL Color Converter",
 		"Hex-to-RGB",
 		"HTML5",
@@ -27,6 +28,8 @@
 		"Placeholders",
 		"Prefixr",
 		"Ruby 1.9 Hash Converter",
+		"Sass",
+		"SASS Build",
 		"SideBarEnhancements",
 		"Simple Rails Navigator",
 		"SublimeLinter",

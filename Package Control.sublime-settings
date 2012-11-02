@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1350900483,
+	"auto_upgrade_last_run": 1351852022,
 	"installed_packages":
 	[
 		"Alignment",
@@ -13,6 +13,7 @@
 		"CSSLint",
 		"DocBlockr",
 		"Element Finder",
+		"emmet-sublime",
 		"Git",
 		"GotoOpenFile",
 		"Hex to HSL Color Converter",
@@ -37,5 +38,9 @@
 		"Tag",
 		"Theme - Aqua",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/sergeche/emmet-sublime"
 	]
 }

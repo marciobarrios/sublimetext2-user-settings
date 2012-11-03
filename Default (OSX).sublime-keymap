@@ -27,6 +27,24 @@
     { "keys": ["ctrl+alt+right"], "command": "caret_history", "args": { "action": "next" } }
   ],*/
 
+  // Emmet package, modifying some key bindings
+  /*{
+    "keys": [
+      //"ctrl+e"
+      "escape"
+    ], 
+    "args": {
+      "action": "expand_abbreviation"
+    }, 
+    "command": "run_emmet_action", 
+    "context": [
+      {
+        "key": "emmet_action_enabled.expand_abbreviation"
+      }
+    ]
+  }, */
+
+
   // console.log() key binding 
   { "keys": ["super+shift+l"],
     "command": "insert_snippet",
@@ -49,6 +67,7 @@
   { "keys": ["super+alt+ctrl+v"], "command": "clipboard_history_choose_and_paste" },
 
   // Incrementar numeros y colores: increment_number.py
+  /*
   { "keys": ["alt+up"],  "command": "inc_dec_number", "args": { "delta": 1}, "context": [
   { "key": "selector", "operator": "equal", "operand": "source.css meta.property-value.css", "match_all": true }
   ] },
@@ -61,6 +80,7 @@
   { "keys": ["super+alt+down"], "command": "inc_dec_number", "args": { "delta": -10}, "context": [
   { "key": "selector", "operator": "equal", "operand": "source.css meta.property-value.css", "match_all": true }
   ] },
+  */
 
   // Escape = Undo selection command
   { "keys": ["escape"], "command": "soft_undo", "context":

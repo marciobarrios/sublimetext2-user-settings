@@ -7,8 +7,8 @@
   "font_size": 13,
   "rulers":[100],
   "highlight_modified_tabs": true,
-  "line_numbers": false,
-  "margin": -25,
+  //"line_numbers": false,
+  //"margin": -25,
   "move_to_limit_on_up_down": true,
   "scroll_past_end": false,
 
@@ -66,6 +66,7 @@
     "SublimeServer",
     "SublimeLinter",
     "Vintage",
-    "Modific"
+    "Modific",
+    "Tuenti"
   ]
 }

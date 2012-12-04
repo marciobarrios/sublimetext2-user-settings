@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1351870614,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
@@ -11,6 +11,7 @@
 		"CSS Media Query Snippets",
 		"CSS Snippets",
 		"CSSLint",
+		"Dark Pastel Color Scheme",
 		"DocBlockr",
 		"Element Finder",
 		"emmet-sublime",
@@ -22,6 +23,7 @@
 		"jsFormat",
 		"JsFormat",
 		"JsMinifier",
+		"JsRun",
 		"Modific",
 		"Nettuts+ Fetch",
 		"Nodejs",
@@ -29,6 +31,7 @@
 		"Placeholders",
 		"Prefixr",
 		"Ruby 1.9 Hash Converter",
+		"RubyCheckOnSave",
 		"Sass",
 		"SASS Build",
 		"SideBarEnhancements",

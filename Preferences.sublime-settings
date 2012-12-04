@@ -5,20 +5,20 @@
   //"font_face": "Menlo Regular",
   "font_face": "Source Code Pro",
   "font_size": 13,
-  "rulers":[100],
   "highlight_modified_tabs": true,
   //"line_numbers": false,
   //"margin": -25,
   "move_to_limit_on_up_down": true,
   "scroll_past_end": false,
+  "show_tab_close_buttons": false,
 
   // text formatting
-  "indent_guide_options":["draw_active"], 
+  "indent_guide_options":["draw_active"],
   "word_wrap": true,
   "tab_size": 2,
   "ensure_newline_at_eof_on_save": true,
 
-  // other 
+  // other
   "auto_complete_commit_on_tab": true,
   "close_windows_when_empty": true,
   // "open_files_in_new_window": false,
@@ -29,9 +29,9 @@
   // alignment package
   "alignment_chars":["=",":"],
 
-   
+
   // Emmet package (ex zen coding)
-  
+
   // If `true` will disable bindings like ctrl+alt+n etc
   // Handy for our italian friends :)
   "alt_gr": false,
@@ -48,21 +48,22 @@
   "disable_formatted_linebreak": false,
 
   // Enables default Emmet keymap. Many users complain that Emmet actions
-  // (especially ones that bound to Alt key) behave incorrectly in 
+  // (especially ones that bound to Alt key) behave incorrectly in
   // non-English keyboard layouts. Set this setting to `false` in
   // Users’s Preferences.sublime-settings to disable all default
   // keybindings at once
   "enable_emmet_keymap": true,
 
   // disable expanding abbreviation by Tab key when autocomplete popup is visible
-  "disable_tab_abbreviations_on_auto_complete": false,
-  
+  "disable_tab_abbreviations_on_auto_complete": true,
+
 
   // ignored
   "ignored_packages":
   [
     "Caret History",
     "CSSLint",
+    "CSS",
     "SublimeServer",
     "SublimeLinter",
     "Vintage",

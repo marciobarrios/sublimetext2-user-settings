@@ -11,11 +11,10 @@
 		"Caret History",
 		"CSS Media Query Snippets",
 		"CSS Snippets",
-		"CSSLint",
 		"Dark Pastel Color Scheme",
 		"DocBlockr",
 		"Element Finder",
-		"emmet-sublime",
+		"Emmet",
 		"Git",
 		"GotoOpenFile",
 		"Hayaku - tools for writing CSS faster",
@@ -39,13 +38,11 @@
 		"SideBarEnhancements",
 		"Simple Rails Navigator",
 		"SublimeLinter",
-		"SublimeServer",
 		"Tag",
 		"Theme - Aqua",
 		"Theme - Soda"
 	],
 	"repositories":
 	[
-		"https://github.com/sergeche/emmet-sublime"
 	]
 }

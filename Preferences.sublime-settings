@@ -29,6 +29,9 @@
   // alignment package
   "alignment_chars":["=",":"],
 
+  // Hayaku (modified Command for inserting CSS code block)
+  "hayaku_CSS_prefixes_disable": true,
+  "hayaku_CSS_colors_case": "lowercase",
 
   // Emmet package (ex zen coding)
 
@@ -57,17 +60,12 @@
   // disable expanding abbreviation by Tab key when autocomplete popup is visible
   "disable_tab_abbreviations_on_auto_complete": true,
 
-
   // ignored
   "ignored_packages":
   [
     "Caret History",
-    "CSSLint",
-    "CSS",
-    "SublimeServer",
     "SublimeLinter",
     "Vintage",
-    "Modific",
     "Tuenti"
   ]
 }

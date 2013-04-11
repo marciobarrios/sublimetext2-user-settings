@@ -11,6 +11,9 @@
   "move_to_limit_on_up_down": true,
   "scroll_past_end": false,
   "show_tab_close_buttons": false,
+  // defines syntax highlighting scope that will be used to highlight matched jump targets
+	// other examples include: keyword, string, number
+	"jump_target_scope" : "entity.name.class",
 
   // text formatting
   "indent_guide_options":["draw_active"],
@@ -37,30 +40,35 @@
 
   // If `true` will disable bindings like ctrl+alt+n etc
   // Handy for our italian friends :)
-  "alt_gr": false,
+  	//"alt_gr": false,
   // If `true` will insert id="$1" snippet on pressing '#', similar on '.'
   // Useful for `raw html`, but annoying for some templating langs.
-  "auto_id_class": false,
+  	//"auto_id_class": false,
   // disable expanding abbreviation by Tab key
-  "disable_tab_abbreviations": false,
+  	//"disable_tab_abbreviations": false,
   // disable insertion of formatted linebreak when
   // Enter key is pressed between opening and closing HTML tags
-  "disable_formatted_linebreak": false,
+  	//"disable_formatted_linebreak": false,
   // Enables default Emmet keymap. Many users complain that Emmet actions
   // (especially ones that bound to Alt key) behave incorrectly in
   // non-English keyboard layouts. Set this setting to `false` in
   // Users’s Preferences.sublime-settings to disable all default
   // keybindings at once
-  "enable_emmet_keymap": true,
+  	//"enable_emmet_keymap": true,
   // disable expanding abbreviation by Tab key when autocomplete popup is visible
-  "disable_tab_abbreviations_on_auto_complete": true,
+  	//"disable_tab_abbreviations_on_auto_complete": true,
 
-  // ignored
-  "ignored_packages":
-  [
-    "Caret History",
-    "SublimeLinter",
-    "Vintage",
-    "Tuenti"
-  ]
+  "ignored_packages":[
+		"DocBlockr",
+		"Git",
+		"Origami",
+		"Vintage",
+		"Modific",
+		"Caret History",
+		"Auto Encoding for Ruby",
+		"SublimeLinter",
+		"Emmet Css Snippets",
+		"Diff",
+		"Emmet",
+		"Element Finder"]
 }

@@ -13,6 +13,7 @@
 		"CSS Snippets",
 		"Dark Pastel Color Scheme",
 		"DocBlockr",
+		"EasyMotion",
 		"Element Finder",
 		"Emmet",
 		"Git",
@@ -26,6 +27,7 @@
 		"JsMinifier",
 		"JsRun",
 		"Modific",
+		"Navigation History",
 		"Nettuts+ Fetch",
 		"Nodejs",
 		"Package Control",
@@ -35,6 +37,8 @@
 		"RubyCheckOnSave",
 		"Sass",
 		"SASS Build",
+		"SASS Snippets",
+		"SCSS Snippets",
 		"SideBarEnhancements",
 		"Simple Rails Navigator",
 		"SublimeLinter",
@@ -44,5 +48,7 @@
 	],
 	"repositories":
 	[
+		"https://bitbucket.org/theblacklion/sublime_orgmode",
+		"https://github.com/ronelliott/sublime-jira.git"
 	]
 }

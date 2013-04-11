@@ -10,8 +10,12 @@
   { "keys": ["super+alt+ctrl+f"], "command": "fold" },
   { "keys": ["super+alt+ctrl+shift+f"], "command": "unfold" },
 
-  // Command palette with CMD+SHIFT+T
-  //{ "keys": ["super+shift+t"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+  // Reveal in sidebar
+  {"keys": ["ctrl+super+r"], "command": "reveal_in_side_bar"},
+
+  // Paste and indent instead of paste
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" },
 
   // Element Finder plugin
   {
